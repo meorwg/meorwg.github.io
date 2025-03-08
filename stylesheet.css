@@ -1,0 +1,18 @@
+h1 {
+    color: dodgerblue;
+    font-size: 2.5em;
+    font-family: Lucida Handwriting, cursive;
+}
+
+a:link, a:visited {
+    background-color: #af87cf;
+    color: white;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+  
+  a:hover, a:active {
+    background-color: rgb(146, 109, 177);
+}
